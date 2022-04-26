@@ -1,6 +1,4 @@
-# CompetitiveProgramming2022
-
-競技プログラミングの練習
+# 競技プログラミングの練習
 
 ## C
 

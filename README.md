@@ -7,3 +7,7 @@
 ## C++
 
 - [Hello World](HelloWorld/01.c)
+
+## Python
+
+- [Hello World](HelloWorld/01.py)

@@ -35,5 +35,6 @@ g++ file.cpp
 ### Python
 
 ```
+cd path
 python3 file.py
 ```
